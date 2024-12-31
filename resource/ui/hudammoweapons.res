@@ -63,7 +63,7 @@
 		"ypos"			"-48"
 		"zpos"			"4"
 		"wide"			"55"
-		"tall"			"p0.001"
+		"tall"			"1"
 		"visible"		"0"
 		"visible_minmode"		"1"
 		"alpha"			"255"
